@@ -125,4 +125,5 @@
     <string name="intent_with_shop">Loja de apps</string>
     <string name="deeplink_function">Deeplink no launcher</string>
     <string name="function_set_style">Alterações de layout</string>
+    <string name="terminal_carregando">Terminal: carregando...</string>
 </resources>
